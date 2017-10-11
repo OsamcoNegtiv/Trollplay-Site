@@ -1,0 +1,8 @@
+Witch of Void (Merkat):
+b=%00%00%00%C2%B8%C3%B7%C3%9B%10U%0D%0D%04&s=,,Molecular Gastronomy,Psychology,bendingNothingness
+
+Witch of Time (Ella):
+b=%00%00%00%C2%B1%C3%BE%12%00T%23%23%3A&s=,,Dancing,Fine Art,dirtyDancing
+
+Witch of Blood (Jinx):
+b=%7C%00%C2%80%C2%B4%C3%BEu%00V!!%1E&s=,,Conspiracies,Murder,ParanoidCleric

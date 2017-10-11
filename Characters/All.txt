@@ -1,0 +1,110 @@
+Prince of Time (Osamco):1
+b=%00%C2%80%C3%BF%C2%A1%C3%BB%0A%10%17%3E%3E%1D&s=,,Jokes,Computers,cleverDouchebag
+
+Kight of Space (Litl_E):2
+b=%00%00%000%C3%B2%C2%AA%10S**%03&s=,,Computers,Coding,theLegolink&x=AQ==
+
+Theif of Heart (Samm):3
+b=%00%00%00u%C3%BE)%00A%17*%0B&s=,,Dreaming,Video Games,funlovingLaughter&x=AQ==
+
+Waste of Mind (Fred):4
+b=%00%00%00%C3%86%C3%BE%00%00%0A%03%03%2C&s=,,Jokes,Having Fun,multiplyingManiac&x=AQ==
+
+Mage of Light (Dill):5
+b=%00%00%00'%C3%BE%C3%92%00%03%03%034&s=,,Exposing Government Plots,Conspiracy Documentaries,conspiracyTheorist&x=AQ==
+
+Sage of Doom (Just):6
+b=%C3%97%C2%AAo%C3%A3%C3%BE%C3%92%00Y%18%1F%1E&s=,,Knowledge,Fine Art,legoLord&x=AQ==
+
+Seer of Rage (Cony):7
+b=%3F%19%04i%C3%BE%1C%00%03%01%01%0E&s=,,Song Writing,Love,tomFoolary
+
+Page of Breath (Aarody):8
+b=%00%40%00%12%C3%B4m%10L22%24&s=,,Mysteries,History,variablesIncarnate
+
+Sylph of Rage (Tommey):9
+b=%00%00%00Y%C3%B8U%10W%12%12%24&s=,,Violence,Death,trueEvil
+
+Maid of Blood (Tina):10
+b=%00%00%00%04%C3%BEf%00E%01%01(&s=,,Mysteries,Leadership,syberNoob
+
+Page of Heart (Mike):11
+b=%00%00%00%15%C3%BE%C2%8C%00%1B%06%06%01&s=,,Scrapbooking,Shipping,ladofLove
+
+Page of Heart (Mikeey):12
+b=%00%00%00%15%C3%B9%C2%8C%10%1B%06%06%01&s=,,Scrapbooking,Shipping,trollofTenerness
+
+Witch of Void (Merkat):13
+b=%00%00%00%C2%B8%C3%B7%C3%9B%10U%0D%0D%04&s=,,Molecular Gastronomy,Psychology,bendingNothingness
+
+Bard of Light (Caly):14
+b=%00%00%00%C2%97%C3%BED%00P%1F%1F%20&s=,,Track and Field,Sports,futureFarfetch
+
+Witch of Time (Ella):15
+b=%00%00%00%C2%B1%C3%BE%12%00T%23%23%3A&s=,,Dancing,Fine Art,dirtyDancing
+
+Knight of Light (Hunter):16
+b=%00%00%C3%BF7%C3%B8%C2%89%10%1099%07&s=,,Baking,Video Games,somethingSmart&x=AQ==
+
+Witch of Blood (Jinx):17
+b=%7C%00%C2%80%C2%B4%C3%BEu%00V!!%1E&s=,,Conspiracies,Murder,ParanoidCleric&x=AQ==
+
+Heir of Hope (Jammie):18
+b=%00%00%00%C2%8A%C3%B4%C3%8B%10W%02%02%15&s=,,Dating,Charity,OptimisticIgnoramus
+
+Seer of Hope (Ladamy):19
+b=%C2%BB%00%00j%C3%B6V%10%14HH%13&s=,,Classism,Equality,malevolentMistress
+
+Rouge of Hope (Melp):20
+b=%00%00%00J%C3%BEd%00Y%05%05%1A&s=,,Leadership,Sports,janMel
+
+Sage of Life (Carl):21
+b=%00%C3%BF%C3%BF%C3%AB%C3%BE%C2%A9%00J%02%02%24&s=,,Androids,Batman,crazyExplorer
+
+Thief of Blood (Ryanca):22
+b=%00%00%00t%C3%B8%1B%10%17CC%2B&s=,,Music,Animals,ProTeam
+
+Scribe of Space (Jackob):23
+b=%00%00%00%C3%B0%C3%B1%C3%93%10%05%26%26%05&s=,,Astronomy,Writing,WritingPlanets
+
+Scout of Blood (Catnip):24
+b=%00%00%00%C3%94%C3%B4%C2%88%10%16%16%16%04&s=,,Babies,Napping,CittyKat&x=AQ==
+
+Bard of Time (Dankme):25
+b=%C3%8747%C2%91%C3%BA%C2%85%10%10998&s=,,Scrapbooking,Online Trolling,rarePepe&x=AQ==
+
+Rogue of Time (Kinkle):26
+b=%00%00%00A%C3%B8%C2%AD%10R%13%13%22&s=,,Hacking,Mathematics,killerTroll&x=AQ==
+
+Scribe of Doom (Myth):27
+b=%00%00%00%C3%B3%C3%BAZ%00%09%18%26%04&s=,,Horrorterrors,System Manipulation,UnKNowN3nt1TY&x=AQ==
+
+Thief of Breath (Ronald):28
+b=%C2%B3%C3%B7%C2%92r%C3%B6%7D%10%17%40%40%0A&s=,,Conspiracies,Politics,dumbShut&x=AQ==
+
+Heir of Rage (Terrorr):29
+b=%00%C2%80%C3%BF%C2%89%C3%BB%C2%88%10%17%3E%3E!&s=,,Cooking With the Flesh of his victims,Disrupting the Peace,worldEnder&x=AQ==
+
+Guide of Life (Justice):30
+b=%00%00%00%0B%C3%B2U%10S**%25&s=,,Compliments,Ending War,worldSaver&x=hlgA
+
+Rouge of Space (Mike):31
+b=%00%00%00%40%C3%BE%22%00%11%17*%3E&s=,,Sherlock Holmes,Typography,candyCrackhead&x=AQ==
+
+Grace of Time (Carl):32
+b=%00%00%00%11%C3%BE%22%00Z%03%03%2C&s=,,Art,More Art,starvedArtist&x=jggA
+
+Witch of Hope (Sara):33
+b=%00%00%00%C2%BA%C3%BED%00S%03%03%20&s=,,Track and Field,Science Fiction,onlyGirl&x=AQ==
+
+Maid of Dream (Tomm):34
+b=%C3%97%C2%AAo%C3%BF%C3%BE%22%00%19%18%1F%01&s=,,Fine Art,Fine Art,duckTales&x=BvgH
+
+Maid of Heart (Hayden):35
+b=%00%00%00%05%C3%B4%C3%81%10%11%13%13%16&s=,,Girls,Singing,caringPerson&x=AQ==
+
+Sylph of Rage (Matt):36
+b=%00%00%00Y%C3%BE%0A%00W%12%12%15&s=,,Stand-up Comedy,Programming,helloWorld&x=AQ==
+
+Rouge of Breath (Evan):37
+b=%00%00%00B%C3%BE!%00Z%26%26%3C&s=,,Theater,Song Writing,legoDude&x=AQ==
